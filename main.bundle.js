@@ -6116,7 +6116,7 @@ var _a;
 
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return apiUrl; });
-var apiUrl = 'http://tfm-server.azurewebsites.net/api';
+var apiUrl = 'https://tfm-server.azurewebsites.net/api';
 //# sourceMappingURL=variables.js.map
 
 /***/ }),
